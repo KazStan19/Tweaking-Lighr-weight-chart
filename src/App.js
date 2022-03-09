@@ -1,18 +1,12 @@
-import React from 'react'
-import { Gen } from './Components/gen.jsx';
-
-export const App = () => {
-  
+import { PieChart } from "./components/pieChart";
 
 
+function App() {
   return (
-		
-    <div>    
-  
-      <Gen/>
-
+    <div className="App">
+     <PieChart/>
     </div>
-
-
-	);
+  );
 }
+
+export default App;
