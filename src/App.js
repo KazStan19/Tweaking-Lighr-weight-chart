@@ -1,10 +1,9 @@
-import { PieChart } from "./components/pieChart";
-
+import { Barchart } from "./components/barchart";
 
 function App() {
   return (
     <div className="App">
-     <PieChart/>
+      <Barchart/>
     </div>
   );
 }

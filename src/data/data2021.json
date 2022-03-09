@@ -1,0 +1,2842 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.672588513679095,
+                            51.08252129352566
+                        ],
+                        [
+                            13.6730436,
+                            51.0822837
+                        ],
+                        [
+                            13.673139842254711,
+                            51.0822345246348
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237eebd1514d0714493bf",
+                "way": 322202471,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 200.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314454,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.672039896688608,
+                            51.08281006909799
+                        ],
+                        [
+                            13.6720995,
+                            51.0827766
+                        ],
+                        [
+                            13.672588513679095,
+                            51.08252129352566
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237eebd1514d071449519",
+                "way": 322202471,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 150.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314463,
+                "quality": 3,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671628114877073,
+                            51.083157699993656
+                        ],
+                        [
+                            13.6716582,
+                            51.0830487
+                        ],
+                        [
+                            13.6717964,
+                            51.0829468
+                        ],
+                        [
+                            13.672039896688608,
+                            51.08281006909799
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237efbd1514d071449892",
+                "way": 322202471,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 100.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314471,
+                "quality": 3,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671843259492725,
+                            51.08358205159136
+                        ],
+                        [
+                            13.6717722,
+                            51.0834876
+                        ],
+                        [
+                            13.6716502,
+                            51.0832888
+                        ],
+                        [
+                            13.6716261,
+                            51.083165
+                        ],
+                        [
+                            13.671628114877073,
+                            51.083157699993656
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237efbd1514d071449ba7",
+                "way": 322202471,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314478,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6721939,
+                            51.0839708
+                        ],
+                        [
+                            13.6721182,
+                            51.0839165
+                        ],
+                        [
+                            13.6720538,
+                            51.0838619
+                        ],
+                        [
+                            13.671843259492725,
+                            51.08358205159136
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f0bd1514d071449e5a",
+                "way": 322202471,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314486,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671964020895372,
+                            51.0840663211759
+                        ],
+                        [
+                            13.6721939,
+                            51.0839708
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f0bd1514d07144a170",
+                "way": 159064866,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 19.252182495604202,
+                "way_offset": 50.0,
+                "vnk": 538197007,
+                "nnk": 3289721470,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314488,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671367,
+                            51.0843144
+                        ],
+                        [
+                            13.671964020895372,
+                            51.0840663211759
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f0bd1514d07144a1d4",
+                "way": 159064866,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 538197007,
+                "nnk": 3289721470,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314495,
+                "quality": 0,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671276973594427,
+                            51.0843484754152
+                        ],
+                        [
+                            13.671367,
+                            51.0843144
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f0bd1514d07144a487",
+                "way": 11912940,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 7.3416516776332035,
+                "way_offset": 100.0,
+                "vnk": 506478110,
+                "nnk": 538197007,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314496,
+                "quality": 0,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.67072562995849,
+                            51.08463377660876
+                        ],
+                        [
+                            13.6707765,
+                            51.0845979
+                        ],
+                        [
+                            13.6709166,
+                            51.0845254
+                        ],
+                        [
+                            13.6711453,
+                            51.0844071
+                        ],
+                        [
+                            13.6712386,
+                            51.084363
+                        ],
+                        [
+                            13.671276973594427,
+                            51.0843484754152
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f0bd1514d07144a4eb",
+                "way": 11912940,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 506478110,
+                "nnk": 538197007,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314503,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6702496,
+                            51.0849696
+                        ],
+                        [
+                            13.6704362,
+                            51.0848379
+                        ],
+                        [
+                            13.67072562995849,
+                            51.08463377660876
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f1bd1514d07144a79e",
+                "way": 11912940,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 506478110,
+                "nnk": 538197007,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314513,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6678814,
+                            51.0879597
+                        ],
+                        [
+                            13.6677117,
+                            51.0878883
+                        ],
+                        [
+                            13.6675129,
+                            51.0878123
+                        ],
+                        [
+                            13.6672854,
+                            51.0877788
+                        ],
+                        [
+                            13.667241251326802,
+                            51.08778497017602
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f1bd1514d07144ab79",
+                "way": 27912026,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 2212879074,
+                "nnk": 306394723,
+                "tags": {
+                    "highway": "track"
+                },
+                "timestamp": 1611315019,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6646552,
+                            51.0908969
+                        ],
+                        [
+                            13.6650368,
+                            51.0906791
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f1bd1514d07144aca2",
+                "way": 25525493,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 36.01112520068521,
+                "way_offset": 0.0,
+                "vnk": 278179606,
+                "nnk": 29816379,
+                "tags": {
+                    "highway": "cycleway"
+                },
+                "timestamp": 1611314645,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.664522376275972,
+                            51.09096245229152
+                        ],
+                        [
+                            13.6646552,
+                            51.0908969
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f2bd1514d07144aef3",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 11.797536014916489,
+                "way_offset": 400.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314646,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.66395944633933,
+                            51.0912402742513
+                        ],
+                        [
+                            13.664522376275972,
+                            51.09096245229152
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f2bd1514d07144af57",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 350.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314654,
+                "quality": 2,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.66337707708511,
+                            51.09150054629993
+                        ],
+                        [
+                            13.6634705,
+                            51.0914499
+                        ],
+                        [
+                            13.6638285,
+                            51.0913049
+                        ],
+                        [
+                            13.66395944633933,
+                            51.0912402742513
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f2bd1514d07144b26e",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 300.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314661,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.662835109144144,
+                            51.091794357201934
+                        ],
+                        [
+                            13.66337707708511,
+                            51.09150054629993
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f3bd1514d07144b522",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 250.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314668,
+                "quality": 3,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.66229201836567,
+                            51.0920873465749
+                        ],
+                        [
+                            13.662484,
+                            51.0919847
+                        ],
+                        [
+                            13.662835109144144,
+                            51.091794357201934
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f3bd1514d07144b7d5",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 200.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314676,
+                "quality": 2,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.661747036783618,
+                            51.09237895480191
+                        ],
+                        [
+                            13.6620297,
+                            51.0922276
+                        ],
+                        [
+                            13.66229201836567,
+                            51.0920873465749
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f3bd1514d07144baeb",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 150.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314684,
+                "quality": 0,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.661200815371641,
+                            51.0926696439149
+                        ],
+                        [
+                            13.6614121,
+                            51.0925583
+                        ],
+                        [
+                            13.661747036783618,
+                            51.09237895480191
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f4bd1514d07144be02",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 100.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314692,
+                "quality": 0,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.660648509684934,
+                            51.09295315044234
+                        ],
+                        [
+                            13.6606654,
+                            51.0929518
+                        ],
+                        [
+                            13.661200815371641,
+                            51.0926696439149
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f4bd1514d07144c118",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314700,
+                "quality": 3,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6601075,
+                            51.0932138
+                        ],
+                        [
+                            13.6604246,
+                            51.0929814
+                        ],
+                        [
+                            13.6605791,
+                            51.0929587
+                        ],
+                        [
+                            13.660648509684934,
+                            51.09295315044234
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f4bd1514d07144c42e",
+                "way": 126821745,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314708,
+                "quality": 1,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6599621,
+                            51.0933
+                        ],
+                        [
+                            13.6601075,
+                            51.0932138
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f5bd1514d07144c744",
+                "way": 293399770,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 13.963544501489757,
+                "way_offset": 0.0,
+                "vnk": 1404784711,
+                "nnk": 1404784830,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314710,
+                "quality": 2,
+                "color": "blue",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6595265,
+                            51.093558
+                        ],
+                        [
+                            13.65965,
+                            51.0934851
+                        ],
+                        [
+                            13.6599621,
+                            51.0933
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f5bd1514d07144c80a",
+                "way": 126821741,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 41.81431189695457,
+                "way_offset": 0.0,
+                "vnk": 1404784834,
+                "nnk": 1404784711,
+                "tags": {
+                    "name": "Altserkowitz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314716,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6589067,
+                            51.0938524
+                        ],
+                        [
+                            13.6591641,
+                            51.0937813
+                        ],
+                        [
+                            13.6593166,
+                            51.0936874
+                        ],
+                        [
+                            13.659474462850529,
+                            51.09359008007214
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f5bd1514d07144ca5b",
+                "way": 4690969,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 29816376,
+                "nnk": 1404784834,
+                "tags": {
+                    "name": "Altserkowitz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314724,
+                "quality": 1,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6582396,
+                            51.0937019
+                        ],
+                        [
+                            13.6589067,
+                            51.0938524
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f5bd1514d07144cd71",
+                "way": 126821705,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 49.50192361504922,
+                "way_offset": 0.0,
+                "vnk": 1404784835,
+                "nnk": 29816376,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314732,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6577616,
+                            51.093613
+                        ],
+                        [
+                            13.6582396,
+                            51.0937019
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f6bd1514d07144d087",
+                "way": 126821704,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 34.81444872773031,
+                "way_offset": 0.0,
+                "vnk": 321360961,
+                "nnk": 1404784835,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314738,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.657288682795539,
+                            51.09339964006623
+                        ],
+                        [
+                            13.6577616,
+                            51.093613
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f6bd1514d07144d2d9",
+                "way": 126821703,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 40.66476326470574,
+                "way_offset": 50.0,
+                "vnk": 1404784826,
+                "nnk": 321360961,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314743,
+                "quality": 0,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6567072,
+                            51.0931373
+                        ],
+                        [
+                            13.657288682795539,
+                            51.09339964006623
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f6bd1514d07144d4c7",
+                "way": 126821703,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 1404784826,
+                "nnk": 321360961,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314751,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.656451707626294,
+                            51.093022061146236
+                        ],
+                        [
+                            13.656507,
+                            51.093047
+                        ],
+                        [
+                            13.6567072,
+                            51.0931373
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f7bd1514d07144d7df",
+                "way": 126821709,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 21.967299028720454,
+                "way_offset": 50.0,
+                "vnk": 32340718,
+                "nnk": 1404784826,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314754,
+                "quality": 3,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6558198,
+                            51.0929526
+                        ],
+                        [
+                            13.6561547,
+                            51.0928881
+                        ],
+                        [
+                            13.656451707626294,
+                            51.093022061146236
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f7bd1514d07144d907",
+                "way": 126821709,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 32340718,
+                "nnk": 1404784826,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314763,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.655465818036753,
+                            51.093061202111514
+                        ],
+                        [
+                            13.6558198,
+                            51.0929526
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f7bd1514d07144dc80",
+                "way": 126821717,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 27.512838363966168,
+                "way_offset": 150.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314767,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6548599277059,
+                            51.09329795052351
+                        ],
+                        [
+                            13.6552155,
+                            51.093138
+                        ],
+                        [
+                            13.655465818036753,
+                            51.093061202111514
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f7bd1514d07144de0c",
+                "way": 126821717,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 100.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314775,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.654248165494705,
+                            51.09353113272222
+                        ],
+                        [
+                            13.6542765,
+                            51.0935213
+                        ],
+                        [
+                            13.6547789,
+                            51.0933344
+                        ],
+                        [
+                            13.6548599277059,
+                            51.09329795052351
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f8bd1514d07144e122",
+                "way": 126821717,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314783,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6536215,
+                            51.0937486
+                        ],
+                        [
+                            13.654248165494705,
+                            51.09353113272222
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f8bd1514d07144e437",
+                "way": 126821717,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314793,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6534592,
+                            51.0938136
+                        ],
+                        [
+                            13.6536215,
+                            51.0937486
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f9bd1514d07144e813",
+                "way": 30183876,
+                "forward_moving": false,
+                "modality": "BICYCLE",
+                "length": 13.442705863863203,
+                "way_offset": 0.0,
+                "vnk": 332586229,
+                "nnk": 1404784837,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314794,
+                "quality": 3,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6534592,
+                            51.0938136
+                        ],
+                        [
+                            13.6536215,
+                            51.0937486
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f9bd1514d07144e876",
+                "way": 30183876,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 13.442705863863203,
+                "way_offset": 0.0,
+                "vnk": 332586229,
+                "nnk": 1404784837,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314796,
+                "quality": 0,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6536215,
+                            51.0937486
+                        ],
+                        [
+                            13.654248165494705,
+                            51.09353113272222
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f9bd1514d07144e8dc",
+                "way": 126821717,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314810,
+                "quality": 1,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.654248165494705,
+                            51.09353113272222
+                        ],
+                        [
+                            13.6542765,
+                            51.0935213
+                        ],
+                        [
+                            13.6547789,
+                            51.0933344
+                        ],
+                        [
+                            13.6548599277059,
+                            51.09329795052351
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237f9bd1514d07144ee41",
+                "way": 126821717,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314817,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6548599277059,
+                            51.09329795052351
+                        ],
+                        [
+                            13.6552155,
+                            51.093138
+                        ],
+                        [
+                            13.655465818036753,
+                            51.093061202111514
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fabd1514d07144f0f5",
+                "way": 126821717,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 100.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314824,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.655465818036753,
+                            51.093061202111514
+                        ],
+                        [
+                            13.6558198,
+                            51.0929526
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fabd1514d07144f3a8",
+                "way": 126821717,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 27.512838363966168,
+                "way_offset": 150.0,
+                "vnk": 1404784837,
+                "nnk": 32340718,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314828,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6558198,
+                            51.0929526
+                        ],
+                        [
+                            13.6561547,
+                            51.0928881
+                        ],
+                        [
+                            13.656451707626294,
+                            51.093022061146236
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fabd1514d07144f533",
+                "way": 126821709,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 32340718,
+                "nnk": 1404784826,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314836,
+                "quality": 3,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.656451707626294,
+                            51.093022061146236
+                        ],
+                        [
+                            13.656507,
+                            51.093047
+                        ],
+                        [
+                            13.6567072,
+                            51.0931373
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fabd1514d07144f849",
+                "way": 126821709,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 21.967299028720454,
+                "way_offset": 50.0,
+                "vnk": 32340718,
+                "nnk": 1404784826,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314839,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6567072,
+                            51.0931373
+                        ],
+                        [
+                            13.657288682795539,
+                            51.09339964006623
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fbbd1514d07144f972",
+                "way": 126821703,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 1404784826,
+                "nnk": 321360961,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314847,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.657288682795539,
+                            51.09339964006623
+                        ],
+                        [
+                            13.6577616,
+                            51.093613
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fbbd1514d07144fc88",
+                "way": 126821703,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 40.66476326470574,
+                "way_offset": 50.0,
+                "vnk": 1404784826,
+                "nnk": 321360961,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "paving_stones"
+                },
+                "timestamp": 1611314853,
+                "quality": 0,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6577616,
+                            51.093613
+                        ],
+                        [
+                            13.6582396,
+                            51.0937019
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fbbd1514d07144fed9",
+                "way": 126821704,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 34.81444872773031,
+                "way_offset": 0.0,
+                "vnk": 321360961,
+                "nnk": 1404784835,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "cobblestone"
+                },
+                "timestamp": 1611314858,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6582396,
+                            51.0937019
+                        ],
+                        [
+                            13.6589067,
+                            51.0938524
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fbbd1514d0714500c7",
+                "way": 126821705,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 49.50192361504922,
+                "way_offset": 0.0,
+                "vnk": 1404784835,
+                "nnk": 29816376,
+                "tags": {
+                    "name": "Elberadweg",
+                    "highway": "cycleway",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314867,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6589067,
+                            51.0938524
+                        ],
+                        [
+                            13.6591641,
+                            51.0937813
+                        ],
+                        [
+                            13.6593166,
+                            51.0936874
+                        ],
+                        [
+                            13.659474462850529,
+                            51.09359008007214
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fcbd1514d071450440",
+                "way": 4690969,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 29816376,
+                "nnk": 1404784834,
+                "tags": {
+                    "name": "Altserkowitz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314876,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.659474462850529,
+                            51.09359008007214
+                        ],
+                        [
+                            13.6595265,
+                            51.093558
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fcbd1514d0714507b9",
+                "way": 4690969,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 5.092240335133123,
+                "way_offset": 50.0,
+                "vnk": 29816376,
+                "nnk": 1404784834,
+                "tags": {
+                    "name": "Altserkowitz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314877,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6595265,
+                            51.093558
+                        ],
+                        [
+                            13.65965,
+                            51.0934851
+                        ],
+                        [
+                            13.6599621,
+                            51.0933
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fcbd1514d07145081e",
+                "way": 126821741,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 41.81431189695457,
+                "way_offset": 0.0,
+                "vnk": 1404784834,
+                "nnk": 1404784711,
+                "tags": {
+                    "name": "Altserkowitz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314884,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6599621,
+                            51.0933
+                        ],
+                        [
+                            13.6601075,
+                            51.0932138
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fdbd1514d071450ad1",
+                "way": 293399770,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 13.963544501489757,
+                "way_offset": 0.0,
+                "vnk": 1404784711,
+                "nnk": 1404784830,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314886,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6601075,
+                            51.0932138
+                        ],
+                        [
+                            13.6604246,
+                            51.0929814
+                        ],
+                        [
+                            13.6605791,
+                            51.0929587
+                        ],
+                        [
+                            13.660648509684934,
+                            51.09295315044234
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fdbd1514d071450b98",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314895,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.660648509684934,
+                            51.09295315044234
+                        ],
+                        [
+                            13.6606654,
+                            51.0929518
+                        ],
+                        [
+                            13.661200815371641,
+                            51.0926696439149
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237fdbd1514d071450f10",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314907,
+                "quality": 3,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.661200815371641,
+                            51.0926696439149
+                        ],
+                        [
+                            13.6614121,
+                            51.0925583
+                        ],
+                        [
+                            13.661747036783618,
+                            51.09237895480191
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237febd1514d0714513b2",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 100.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314917,
+                "quality": 0,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.661747036783618,
+                            51.09237895480191
+                        ],
+                        [
+                            13.6620297,
+                            51.0922276
+                        ],
+                        [
+                            13.66229201836567,
+                            51.0920873465749
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237febd1514d07145178d",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 150.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314925,
+                "quality": 2,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.66229201836567,
+                            51.0920873465749
+                        ],
+                        [
+                            13.662484,
+                            51.0919847
+                        ],
+                        [
+                            13.662835109144144,
+                            51.091794357201934
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237febd1514d071451aa3",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 200.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314933,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.662835109144144,
+                            51.091794357201934
+                        ],
+                        [
+                            13.66337707708511,
+                            51.09150054629993
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237ffbd1514d071451db9",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 250.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314941,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.66337707708511,
+                            51.09150054629993
+                        ],
+                        [
+                            13.6634705,
+                            51.0914499
+                        ],
+                        [
+                            13.6638285,
+                            51.0913049
+                        ],
+                        [
+                            13.66395944633933,
+                            51.0912402742513
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237ffbd1514d0714520cf",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 300.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314948,
+                "quality": 1,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.66395944633933,
+                            51.0912402742513
+                        ],
+                        [
+                            13.664522376275972,
+                            51.09096245229152
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "622237ffbd1514d071452382",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 350.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314957,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.664522376275972,
+                            51.09096245229152
+                        ],
+                        [
+                            13.6646552,
+                            51.0908969
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223800bd1514d0714526fb",
+                "way": 126821745,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 11.797536014916489,
+                "way_offset": 400.0,
+                "vnk": 1404784830,
+                "nnk": 278179606,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611314959,
+                "quality": 3,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6646552,
+                            51.0908969
+                        ],
+                        [
+                            13.6650368,
+                            51.0906791
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223800bd1514d0714527c1",
+                "way": 25525493,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 36.01112520068521,
+                "way_offset": 0.0,
+                "vnk": 278179606,
+                "nnk": 29816379,
+                "tags": {
+                    "highway": "cycleway"
+                },
+                "timestamp": 1611314964,
+                "quality": 3,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6702496,
+                            51.0849696
+                        ],
+                        [
+                            13.6704362,
+                            51.0848379
+                        ],
+                        [
+                            13.67072562995849,
+                            51.08463377660876
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223800bd1514d071452ad9",
+                "way": 11912940,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 506478110,
+                "nnk": 538197007,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315077,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.67072562995849,
+                            51.08463377660876
+                        ],
+                        [
+                            13.6707765,
+                            51.0845979
+                        ],
+                        [
+                            13.6709166,
+                            51.0845254
+                        ],
+                        [
+                            13.6711453,
+                            51.0844071
+                        ],
+                        [
+                            13.6712386,
+                            51.084363
+                        ],
+                        [
+                            13.671276973594427,
+                            51.0843484754152
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223801bd1514d071452e54",
+                "way": 11912940,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 506478110,
+                "nnk": 538197007,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315084,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671276973594427,
+                            51.0843484754152
+                        ],
+                        [
+                            13.671367,
+                            51.0843144
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223801bd1514d071453107",
+                "way": 11912940,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 7.3416516776332035,
+                "way_offset": 100.0,
+                "vnk": 506478110,
+                "nnk": 538197007,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315085,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671367,
+                            51.0843144
+                        ],
+                        [
+                            13.671964020895372,
+                            51.0840663211759
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223801bd1514d07145316b",
+                "way": 159064866,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 538197007,
+                "nnk": 3289721470,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315093,
+                "quality": 0,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671964020895372,
+                            51.0840663211759
+                        ],
+                        [
+                            13.6721939,
+                            51.0839708
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223801bd1514d071453481",
+                "way": 159064866,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 19.252182495604202,
+                "way_offset": 50.0,
+                "vnk": 538197007,
+                "nnk": 3289721470,
+                "tags": {
+                    "name": "Serkowitzer Straße",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315095,
+                "quality": 2,
+                "color": "green",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.6721939,
+                            51.0839708
+                        ],
+                        [
+                            13.6721182,
+                            51.0839165
+                        ],
+                        [
+                            13.6720538,
+                            51.0838619
+                        ],
+                        [
+                            13.671843259492725,
+                            51.08358205159136
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223802bd1514d071453547",
+                "way": 322202471,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 0.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315103,
+                "quality": 0,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671843259492725,
+                            51.08358205159136
+                        ],
+                        [
+                            13.6717722,
+                            51.0834876
+                        ],
+                        [
+                            13.6716502,
+                            51.0832888
+                        ],
+                        [
+                            13.6716261,
+                            51.083165
+                        ],
+                        [
+                            13.671628114877073,
+                            51.083157699993656
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223802bd1514d07145385d",
+                "way": 322202471,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 50.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315111,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.671628114877073,
+                            51.083157699993656
+                        ],
+                        [
+                            13.6716582,
+                            51.0830487
+                        ],
+                        [
+                            13.6717964,
+                            51.0829468
+                        ],
+                        [
+                            13.672039896688608,
+                            51.08281006909799
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223802bd1514d071453b73",
+                "way": 322202471,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 100.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315118,
+                "quality": 3,
+                "color": "red",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.672039896688608,
+                            51.08281006909799
+                        ],
+                        [
+                            13.6720995,
+                            51.0827766
+                        ],
+                        [
+                            13.672588513679095,
+                            51.08252129352566
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223803bd1514d071453e26",
+                "way": 322202471,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 150.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315126,
+                "quality": 1,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            13.672588513679095,
+                            51.08252129352566
+                        ],
+                        [
+                            13.6730436,
+                            51.0822837
+                        ],
+                        [
+                            13.673139842254711,
+                            51.0822345246348
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "oid": "62223803bd1514d07145413c",
+                "way": 322202471,
+                "forward_moving": true,
+                "modality": "BICYCLE",
+                "length": 50.0,
+                "way_offset": 200.0,
+                "vnk": 3289721470,
+                "nnk": 25694593,
+                "tags": {
+                    "name": "Altkaditz",
+                    "highway": "residential",
+                    "surface": "asphalt"
+                },
+                "timestamp": 1611315127,
+                "quality": 2,
+                "color": "yellow",
+                "version": "1.0.0"
+            }
+        }
+    ]
+  }
+  
